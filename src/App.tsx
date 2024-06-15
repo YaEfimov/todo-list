@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 import {Todolist} from "./Todolist";
 
-function App() {
 
+function App() {
     let tasks1 = [{id: 1, title: "CSS", isDone: true},
         {id: 2, title: "JS", isDone: true},
         {id: 3, title: "React", isDone: false}]
